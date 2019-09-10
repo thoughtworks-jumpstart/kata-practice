@@ -1,0 +1,11 @@
+{
+  "name": "kata-batch6",
+  "version": "1.0.0",
+  "description": "for practicing my javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "elson lim",
+  "license": "ISC"
+}
